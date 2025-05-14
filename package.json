@@ -1,0 +1,24 @@
+{
+  "name": "backend_app",
+  "version": "1.0.0",
+  "description": "first backend for deploy",
+  "main": "app.js",
+  "scripts": {
+"start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshanakbar444/backend_app.git"
+  },
+  "author": "zeeshan Akbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeshanakbar444/backend_app/issues"
+  },
+  "homepage": "https://github.com/Zeeshanakbar444/backend_app#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
